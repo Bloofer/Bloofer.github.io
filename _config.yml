@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   깃로그로 다시 시작한 블로그
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: jekyllrb
+linkedin_username: jmyang
 github_username:  Bloofer
 
 # Build settings
