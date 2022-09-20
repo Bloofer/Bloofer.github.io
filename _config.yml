@@ -1,34 +1,34 @@
-site: Gesko
-title: Gesko
-greetings: Hi 👋
+site: Bloofer
+title: Bloofer
+greetings: Books 📚
 description: >-
-  just a minimalist, personal blog
+  minimal reviews, booklog
 lang: en-US
 timezone:  Europe/Rome
 repo: https://github.com/DavideBrie/Gesko # site repo [optional]
-data-theme: dark # default theme "dark" | "light"
+data-theme: light # default theme "dark" | "light"
 discus-identifier: powex # replace with your disqus shortname
 
 author:
-  name: gesko
-  bio: just a minimalist, personal blog
-  userpicture: 
+  name: Bloofer
+  bio: minimal reviews, booklog
+  userpicture:
   username: # general username
   github: # github username
   twitter: # twitter username
-  email: your-email@email.com # email adress
+  email: sheepherd93@gmail.com # email adress
 
 # Font Settings
 googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://DavideBrie.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/Gesko" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://bloofer.github.io/" # Domain Name of host. [username].github.io for github pages
+baseurl: # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 # local
-# url: "http://localhost:4000" # 
-# baseurl: "" # 
+# url: "http://localhost:4000" #
+# baseurl: "" #
 
 
 markdown: kramdown
@@ -45,7 +45,7 @@ exclude:
   - LICENSE.md
   - README.md
   - CONTRIBUTING.md
-  
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -66,7 +66,7 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
-  
+
 defaults:
   -
     scope:
@@ -89,5 +89,3 @@ defaults:
 relative_links:
   enabled:     true
   collections: false
-
-
