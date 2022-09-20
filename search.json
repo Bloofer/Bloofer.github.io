@@ -1,210 +1,516 @@
 [
   
     {
-      "title"    : "Difference between font formats",
-      "description" : "What is the difference between various font formats?",
+      "title"    : "책 리뷰 쉰일곱. 이방인",
+      "description" : "",
       "category" : "",
-      "tags"     : "typography",
-      "url"      : "/Gesko/2019/08/31/difference-between-font-formats",
-      "date"     : "2019-08-31 00:00:00 +0200"
+      "tags"     : "",
+      "url"      : "/Gesko/2022/09/17/review57",
+      "date"     : "2022-09-17 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Staticman comments on a Jekyll site",
-      "description" : "Generating comments on static sites with Staticman",
+      "title"    : "책 리뷰 쉰여섯. 오래되고 멋진 클래식 레코드",
+      "description" : "",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/Gesko/2019/07/23/staticman-comments-on-a-jekyll-site",
-      "date"     : "2019-07-23 00:00:00 +0200"
+      "tags"     : "",
+      "url"      : "/Gesko/2022/09/08/review56",
+      "date"     : "2022-09-08 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Adding HTTP response headers to a Netlify static website",
-      "description" : "Increase the security of your Netlify website by adding security headers",
+      "title"    : "책 리뷰 쉰다섯. 호밀밭의 파수꾼",
+      "description" : "",
       "category" : "",
-      "tags"     : "netlify, coding, security",
-      "url"      : "/Gesko/2019/05/23/adding-http-response-headers-to-a-netlify-static-website",
-      "date"     : "2019-05-23 00:00:00 +0200"
+      "tags"     : "",
+      "url"      : "/Gesko/2022/07/09/review55",
+      "date"     : "2022-07-09 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Syntax highlight with Rouge in Jekyll",
-      "description" : "Enable syntax highlighting in your site",
+      "title"    : "책 리뷰 쉰넷. 브레인 스토리",
+      "description" : "",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/Gesko/2018/12/23/syntax-highlight-with-rouge-in-jekyll",
-      "date"     : "2018-12-23 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2022/06/17/review54",
+      "date"     : "2022-06-17 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Page specific assets in Jekyll",
-      "description" : "How to set a custom CSS or JS for each page",
+      "title"    : "책 리뷰 쉰셋. 빵가게 재습격",
+      "description" : "",
       "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/Gesko/2018/11/12/page-specific-assets-in-jekyll",
-      "date"     : "2018-11-12 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2022/03/05/review53",
+      "date"     : "2022-03-05 16:32:23 +0100"
     } ,
   
     {
-      "title"    : "Jekyll reading time without plugins",
-      "description" : "The reading time indicator for your website",
+      "title"    : "책 리뷰 쉰둘. 자기결정",
+      "description" : "",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/Gesko/2018/09/20/jekyll-reading-time-without-plugins",
-      "date"     : "2018-09-20 00:00:00 +0200"
+      "tags"     : "",
+      "url"      : "/Gesko/2022/02/04/review52",
+      "date"     : "2022-02-04 16:32:23 +0100"
     } ,
   
     {
-      "title"    : "How to add an RSS feed to a Jekyll blog",
-      "description" : "Generate an Atom (RSS-like) feed of your Jekyll posts",
+      "title"    : "책 리뷰 쉰하나. 4월의 어느 맑은 아침에 100퍼센트의 여자를 만나는 것에 대하여",
+      "description" : "",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/Gesko/2018/09/11/how-to-add-an-rss-feed-to-a-jekyll-blog",
-      "date"     : "2018-09-11 00:00:00 +0200"
+      "tags"     : "",
+      "url"      : "/Gesko/2022/02/04/review51",
+      "date"     : "2022-02-04 16:32:23 +0100"
     } ,
   
     {
-      "title"    : "Top plugins for Wordpress websites",
-      "description" : "Wordpress plugins that I deem as a necessity for everyone",
+      "title"    : "책 리뷰 쉰. 바람의 노래를 들어라",
+      "description" : "",
       "category" : "",
-      "tags"     : "coding, wordpress",
-      "url"      : "/Gesko/2018/08/18/top-plugins-for-wordpress-websites",
-      "date"     : "2018-08-18 00:00:00 +0200"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/12/25/review50",
+      "date"     : "2021-12-25 16:32:23 +0100"
     } ,
   
     {
-      "title"    : "Install Jekyll on Mac OS",
-      "description" : "How to install Jekyll using Homebrew",
+      "title"    : "책 리뷰 마흔아홉. 질서너머",
+      "description" : "",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/Gesko/2018/06/14/install-jekyll-on-mac-os",
-      "date"     : "2018-06-14 00:00:00 +0200"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/10/11/review49",
+      "date"     : "2021-10-11 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Applying the active class for the current page in Jekyll",
-      "description" : "How to apply the active class for the current page in Jekyll",
+      "title"    : "책 리뷰 마흔여덟. 아름다움의 구원",
+      "description" : "",
       "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/Gesko/2018/06/07/applying-the-active-class-for-the-current-page-in-jekyll",
-      "date"     : "2018-06-07 00:00:00 +0200"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/09/25/review48",
+      "date"     : "2021-09-25 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Displaying GitHub Gists in Jekyll sites",
-      "description" : "A Liquid tag for Jekyll sites that allows embedding Gists",
+      "title"    : "책 리뷰 마흔일곱. 도쿄기담집",
+      "description" : "",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/Gesko/2018/05/13/displaying-github-gists-in-jekyll-sites",
-      "date"     : "2018-05-13 00:00:00 +0200"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/09/17/review47",
+      "date"     : "2021-09-17 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Disable Jekyll&#39;s default syntax highlighter Rouge",
-      "description" : "How to disable Jekyll&#39;s default syntax highlighter",
+      "title"    : "책 리뷰 마흔여섯. 21세기를 위한 21가지 제언",
+      "description" : "",
       "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/Gesko/2018/02/05/disable-jekylls-default-syntax-highlighter-rouge",
-      "date"     : "2018-02-05 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/09/13/review46",
+      "date"     : "2021-09-13 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Image caption in Jekyll",
-      "description" : "Using an image caption in Jekyll",
+      "title"    : "책 리뷰 마흔다섯. 직업으로서의 소설가",
+      "description" : "",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/Gesko/2018/02/03/image-captions-in-jekyll",
-      "date"     : "2018-02-03 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/08/28/review45",
+      "date"     : "2021-08-28 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Showing the word count in Jekyll",
-      "description" : "Obtaining the word count from a post in Jekyll",
+      "title"    : "책 리뷰 마흔넷. 이기적 유전자",
+      "description" : "",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/Gesko/2018/01/17/showing-the-word-count",
-      "date"     : "2018-01-17 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/08/15/review44",
+      "date"     : "2021-08-15 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Custom 404 page for Jekyll on Github pages",
-      "description" : "Serve custom 404 error pages with Jekyll",
+      "title"    : "책 리뷰 마흔셋. 공정하다는 착각",
+      "description" : "",
       "category" : "",
-      "tags"     : "jekyll, coding",
-      "url"      : "/Gesko/2017/11/15/custom-404-page-for-jekyll-on-github-pages",
-      "date"     : "2017-11-15 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/06/23/review43",
+      "date"     : "2021-06-23 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Redirect Jekyll URLs",
-      "description" : "How to Redirect Pages in Jekyll",
+      "title"    : "책 리뷰 마흔둘. 무라카미 T 내가 사랑한 티셔츠",
+      "description" : "",
       "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/Gesko/2017/11/10/redirect-jekyll-urls",
-      "date"     : "2017-11-10 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/06/10/review42",
+      "date"     : "2021-06-10 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Quotes In Jekyll",
-      "description" : "This is how quotes look in jekyll",
+      "title"    : "책 리뷰 마흔하나. 프로테스탄트 윤리와 자본주의 정신",
+      "description" : "",
       "category" : "",
-      "tags"     : "quotes, jekyll",
-      "url"      : "/Gesko/2017/02/05/quotes-test",
-      "date"     : "2017-02-05 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/05/28/review41",
+      "date"     : "2021-05-28 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Creating navigation menu in Jekyll",
-      "description" : "Using data folder to build Jekyll navigation",
+      "title"    : "책 리뷰 마흔. 데미안",
+      "description" : "",
       "category" : "",
-      "tags"     : "coding, jekyll",
-      "url"      : "/Gesko/2017/01/03/creating-navigation-menu-in-jekyll",
-      "date"     : "2017-01-03 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/05/18/review40",
+      "date"     : "2021-05-18 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Jejkyll Headers",
-      "description" : "This is page to test jekyll headers",
+      "title"    : "책 리뷰 서른아홉. 반딧불이",
+      "description" : "",
       "category" : "",
-      "tags"     : "headers, jekyll, css",
-      "url"      : "/Gesko/2017/01/02/headers-test",
-      "date"     : "2017-01-02 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/04/17/review39",
+      "date"     : "2021-04-17 17:32:23 +0200"
     } ,
   
     {
-      "title"    : "Structured Data markup validation and testing tools",
-      "description" : "Schema.org structured data helps you to highlight specific information for search engines and to improve the way your page displays in SERPs",
+      "title"    : "책 리뷰 서른여덟. 비행운",
+      "description" : "",
       "category" : "",
-      "tags"     : "seo",
-      "url"      : "/Gesko/2016/12/11/structured-data-markup-validation-and-testing-tools",
-      "date"     : "2016-12-11 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2021/01/04/review38",
+      "date"     : "2021-01-04 16:32:23 +0100"
     } ,
   
     {
-      "title"    : "Top monospaced fonts for coding",
-      "description" : "Take a look at the fonts in this post that can make your text editor or terminal emulator look little bit nicer",
+      "title"    : "책 리뷰 서른일곱. 이상한 도서관",
+      "description" : "",
       "category" : "",
-      "tags"     : "coding",
-      "url"      : "/Gesko/2016/11/27/top-monospaced-fonts-for-coding",
-      "date"     : "2016-11-27 00:00:00 +0100"
+      "tags"     : "",
+      "url"      : "/Gesko/2020/12/26/review37",
+      "date"     : "2020-12-26 16:32:23 +0100"
     } ,
   
     {
-      "title"    : "Places where you can learn how to code",
-      "description" : "There many different options to learn to code online, so in this article, find places you can learn to code",
+      "title"    : "책 리뷰 서른여섯. 엔트로피",
+      "description" : "",
       "category" : "",
-      "tags"     : "coding",
-      "url"      : "/Gesko/2015/07/31/places-where-you-can-learn-how-to-code",
-      "date"     : "2015-07-31 00:00:00 +0200"
+      "tags"     : "",
+      "url"      : "/Gesko/2020/12/12/review36",
+      "date"     : "2020-12-12 16:32:23 +0100"
     } ,
   
     {
-      "title"    : "CSS hacks you may not know",
-      "description" : "This is a collection of short CSS snippets I thought might be useful for beginners",
+      "title"    : "책 리뷰 서른다섯. 잠",
+      "description" : "",
       "category" : "",
-      "tags"     : "css, coding",
-      "url"      : "/Gesko/2014/05/12/css-hacks-you-may-not-know",
-      "date"     : "2014-05-12 00:00:00 +0200"
+      "tags"     : "",
+      "url"      : "/Gesko/2020/12/04/review35",
+      "date"     : "2020-12-04 16:32:23 +0100"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 서른넷. 일인칭 단수",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2020/11/18/review34",
+      "date"     : "2020-11-18 16:32:23 +0100"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 서른셋. 피로사회",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2020/07/16/review33",
+      "date"     : "2020-07-16 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 서른둘. 소년이 온다",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2020/07/16/review32",
+      "date"     : "2020-07-16 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 서른하나. 오래 준비해온 대답",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2020/06/26/review31",
+      "date"     : "2020-06-26 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 서른. 군주론",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2020/06/06/review30",
+      "date"     : "2020-06-06 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 스물아홉. 지금은 없는 공주를 위하여",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2020/06/02/review29",
+      "date"     : "2020-06-02 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 스물여덟. 나를 지키며 일하는 법",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2020/01/11/review28",
+      "date"     : "2020-01-11 16:32:23 +0100"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 스물일곱. 어떻게 살 것인가",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2020/01/03/review27",
+      "date"     : "2020-01-03 16:32:23 +0100"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 스물여섯. 호모데우스: 미래의 역사",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2020/01/01/review26",
+      "date"     : "2020-01-01 16:32:23 +0100"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 스물다섯. 새는 날아가면서 뒤돌아보지 않는다",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2019/11/22/review25",
+      "date"     : "2019-11-22 16:32:23 +0100"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 스물넷. 여행의 이유",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2019/09/14/review24",
+      "date"     : "2019-09-14 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 스물셋. 바깥은 여름",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2019/06/23/review23",
+      "date"     : "2019-06-23 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 스물둘. 여자없는 남자들",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2019/04/22/review22",
+      "date"     : "2019-04-22 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 스물하나. 죽음이란 무엇인가",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2019/03/19/review21",
+      "date"     : "2019-03-19 16:32:23 +0100"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 스물. 인간실격",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/12/22/review20",
+      "date"     : "2018-12-22 16:32:23 +0100"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 열아홉. 아몬드",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/08/04/review19",
+      "date"     : "2018-08-04 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 열여덟. 바다가 보이는 이발소",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/07/09/review18",
+      "date"     : "2018-07-09 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 열일곱. 사피엔스",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/06/24/review17",
+      "date"     : "2018-06-24 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 열여섯. 조선왕조실록",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/06/20/review16",
+      "date"     : "2018-06-20 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 열다섯. 기사단장 죽이기",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/06/13/review15",
+      "date"     : "2018-06-13 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 열넷. 스무살 도쿄",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/06/09/review14",
+      "date"     : "2018-06-09 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 열셋. 서브프라임 금융위기",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/06/06/review13",
+      "date"     : "2018-06-06 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 열둘. 지적 대화를 위한 넓고 얕은 지식",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/06/01/review12",
+      "date"     : "2018-06-01 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 열하나. 편의점 인간",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/05/30/review11",
+      "date"     : "2018-05-30 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 열. SPEED",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/05/29/review10",
+      "date"     : "2018-05-29 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 아홉. 불안",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/05/27/review9",
+      "date"     : "2018-05-27 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 여덟. 새벽 세시, 바람이 부나요?",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/05/19/review8",
+      "date"     : "2018-05-19 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 일곱. 라면을 끓이며",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/05/15/review7",
+      "date"     : "2018-05-15 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 여섯. 총, 균, 쇠",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/05/12/review6",
+      "date"     : "2018-05-12 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 다섯. 화차",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/05/12/review5",
+      "date"     : "2018-05-12 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 넷. 채식주의자",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/05/05/review4",
+      "date"     : "2018-05-05 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 셋. 색채가 없는 다자키 쓰쿠루와 그가 순례를 떠난 해",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/05/05/review3",
+      "date"     : "2018-05-05 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 둘. 조제와 호랑이와 물고기들",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/05/04/review2",
+      "date"     : "2018-05-04 17:32:23 +0200"
+    } ,
+  
+    {
+      "title"    : "책 리뷰 하나. 마티네의 끝에서",
+      "description" : "",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Gesko/2018/05/04/review1",
+      "date"     : "2018-05-04 17:32:23 +0200"
     } 
   
 ]
