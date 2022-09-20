@@ -1,8 +1,7 @@
-site: Bloofer
-title: Bloofer
-greetings: Books 📚
-description: >-
-  minimal reviews, booklog
+site: Bloofer Booklog
+title: Bloofer Booklog
+greetings: Bloofer Booklog📚
+description:
 lang: en-US
 timezone:  Europe/Rome
 repo: https://github.com/DavideBrie/Gesko # site repo [optional]
@@ -11,7 +10,7 @@ discus-identifier: powex # replace with your disqus shortname
 
 author:
   name: Bloofer
-  bio: minimal reviews, booklog
+  bio: 읽고 쓰고 정리하는, 책리뷰로그
   userpicture:
   username: # general username
   github: # github username
