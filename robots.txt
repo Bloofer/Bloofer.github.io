@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://bloofer.github.io//sitemap.xml
+Sitemap: https://bloofer.github.io/sitemap.xml
