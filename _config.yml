@@ -1,6 +1,6 @@
 site: Bloofer Booklog
 title: Bloofer Booklog
-greetings: Bloofer Booklog📚
+greetings: 책리뷰로그📚
 description:
 lang: en-US
 timezone:  Europe/Rome
@@ -18,7 +18,7 @@ author:
   email: sheepherd93@gmail.com # email adress
 
 # Font Settings
-googlewebfonts: family=Play:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
+googlewebfonts: family=Nanum+Gothic+Coding:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
 url: "https://bloofer.github.io" # Domain Name of host. [username].github.io for github pages
