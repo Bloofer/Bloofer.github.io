@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Bloofer",
+    "title": "Bloofer Booklog",
     "home_page_url": "https://bloofer.github.io/",
     "feed_url": "https://bloofer.github.io/feed.json",
-    "description": "minimal reviews, booklog",
+    "description": null,
     "icon": "https://bloofer.github.io/apple-touch-icon.png",
     "favicon": "https://bloofer.github.io/favicon.ico",
     "expired": false,
