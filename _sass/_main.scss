@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);//google web font added
+
 *,
 :after,
 :before {
@@ -47,7 +49,7 @@ html[data-theme="light"] {
 
 	background-color: rgb(255, 255, 255);
 
-	
+
 
 	#theme-toggle div {
 		position: relative;
@@ -159,7 +161,8 @@ html[data-theme="dark"] {
 }
 
 body {
-	font-family: var(--text-font), monospace;
+	// font-family: var(--text-font), monospace;
+	font-family: 'Nanum Gothic Coding', serif;
 	text-rendering: optimizeLegibility;
 	line-height: 1.75;
 	color: var(--main-text-color);
@@ -187,7 +190,8 @@ pre {
 }
 
 code {
-	font-family: var(--source-code-font), monospace;
+	// font-family: var(--source-code-font), monospace;
+	font-family: 'Nanum Gothic Coding', serif;
 	margin: unset;
 	padding: 0.1rem;
 	color: var(--highlight-text-color);
@@ -388,7 +392,7 @@ main {
   position: initial;
 
   .social-footer-icons {
-     
+
     .fa {
       font-size: 1.3rem;
       color: #a9a9a9;
@@ -449,7 +453,7 @@ color: #333;
 
 .search-article {
   position: relative;
- 
+
 
   label[for="search-input"] {
     position: relative;
@@ -543,7 +547,7 @@ color: #333;
       padding-left: 20px;
     }
   }
-} 	
+}
 
 
 .tags ul {
@@ -790,6 +794,6 @@ $link-color: var(--link-color);
     background: var(--code-bg-color);
     box-shadow: 0 0 1px rgba(0,0,0,0.20);
     z-index: 15;
-    
+
   }
 }
