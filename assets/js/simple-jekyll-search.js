@@ -307,7 +307,7 @@ var _$src_8 = {};
     sortMiddleware: function () {
       return 0
     },
-    noResultsText: 'No results found',
+    noResultsText: '검색결과가 없습니다',
     limit: 10,
     fuzzy: false,
     debounceTime: null,
