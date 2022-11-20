@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "https://bloofer.github.io/2022/11/19/review60",
+            "title": "책 리뷰 예순. 서른의 반격",
+            "summary": null,
+            "content_text": "서른의 반격 - 손원평 ★★☆문체가 담백하고 잘 읽히게 글을 쓰는 작가. 부조리에 대항하는 주제야 뭐 어쨋든 좋지만 인물 설정이나 상황이 좀 진부하지 싶다.",
+            "content_html": "<p><img width=\"240px\" style=\"border:1px solid black;\" src=\"https://shopping-phinf.pstatic.net/main_3248590/32485902667.20221019113916.jpg?type=w300\" /></p><p>서른의 반격 - 손원평 ★★☆</p><p>문체가 담백하고 잘 읽히게 글을 쓰는 작가. 부조리에 대항하는 주제야 뭐 어쨋든 좋지만 인물 설정이나 상황이 좀 진부하지 싶다.</p>",
+            "url": "https://bloofer.github.io/2022/11/19/review60",
+            
+            
+            
+            
+            
+            "date_published": "2022-11-19T16:32:23+01:00",
+            "date_modified": "2022-11-19T16:32:23+01:00",
+            
+                "author":  {
+                "name": "Bloofer",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://bloofer.github.io/2022/10/29/review59",
             "title": "책 리뷰 쉰아홉. 권태",
             "summary": null,
@@ -846,30 +870,6 @@
             
             "date_published": "2019-11-22T16:32:23+01:00",
             "date_modified": "2019-11-22T16:32:23+01:00",
-            
-                "author":  {
-                "name": "Bloofer",
-                "url": null,
-                "avatar": null
-                }
-                
-            
-        },
-    
-        {
-            "id": "https://bloofer.github.io/2019/09/14/review24",
-            "title": "책 리뷰 스물넷. 여행의 이유",
-            "summary": null,
-            "content_text": "여행의 이유 - 김영하 ★★★★여행을 떠나는 이유는 무엇인가. 등단 후 부모님을 처음 여행보내드리니 여행기간 내내 가이드의 말을 빼곡히 적어오셨다는 아버지의 이야기로 시작하며 김영하 작가는 여행에 대한 성찰을 던진다.여행은 우리에게 새로운 경험을 하고 머리를 식히는 것 외에 어떤 경험을 주는가. 새로운 공간, 환경 속에서 완전한 타인으로 받아들여지는 나를 타자 속에 던져넣는 것일까.",
-            "content_html": "<p><img width=\"240px\" style=\"border:1px solid black;\" src=\"https://shopping-phinf.pstatic.net/main_3243830/32438307676.20220527032933.jpg?type=w300\" /></p><p>여행의 이유 - 김영하 ★★★★</p><p>여행을 떠나는 이유는 무엇인가. 등단 후 부모님을 처음 여행보내드리니 여행기간 내내 가이드의 말을 빼곡히 적어오셨다는 아버지의 이야기로 시작하며 김영하 작가는 여행에 대한 성찰을 던진다.여행은 우리에게 새로운 경험을 하고 머리를 식히는 것 외에 어떤 경험을 주는가. 새로운 공간, 환경 속에서 완전한 타인으로 받아들여지는 나를 타자 속에 던져넣는 것일까.</p>",
-            "url": "https://bloofer.github.io/2019/09/14/review24",
-            
-            
-            
-            
-            
-            "date_published": "2019-09-14T17:32:23+02:00",
-            "date_modified": "2019-09-14T17:32:23+02:00",
             
                 "author":  {
                 "name": "Bloofer",
