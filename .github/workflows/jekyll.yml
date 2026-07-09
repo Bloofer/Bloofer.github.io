@@ -15,20 +15,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4 # Node 버전 지원 종료 경고 해결
 
-    # Build
-    - name: 👷 Build the site in the jekyll container 
-      run: |
-        docker run \
-        -v ${{ github.workspace }}:/srv/jekyll \
-        -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll &&\
-        jekyll build --future -d build"
-    
-    # Deploy to gh-pages branch
-    - name: 🚀 Deploy to Github Pages
-      uses: JamesIves/github-pages-deploy-action@4.1.4
+    - name: 💎 Setup Ruby
+      uses: ruby/setup-ruby@v1
       with:
-        branch: gh-pages # The branch the action should deploy to.
-        folder: build # The folder the action should deploy.
+        ruby-version: '3.1' # 필요 시 프로젝트에 맞는 Ruby 버전으로 수정
+        bundler-cache: true # 자동으로 bundle install을 실행하고 캐싱 처리함
+
+    - name: 👷 Build the site
+      run: bundle exec jekyll build --future -d build
+    
+    - name: 🚀 Deploy to Github Pages
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        branch: gh-pages
+        folder: build
