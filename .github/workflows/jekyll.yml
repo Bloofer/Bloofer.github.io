@@ -15,13 +15,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4 # Node 버전 지원 종료 경고 해결
+    - uses: actions/checkout@v4
+
+    # Ruby 셋업 전 Windows 종속성이 포함된 lock 파일 제거
+    - name: 🗑️ Remove Gemfile.lock
+      run: rm Gemfile.lock
 
     - name: 💎 Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.1' # 필요 시 프로젝트에 맞는 Ruby 버전으로 수정
-        bundler-cache: true # 자동으로 bundle install을 실행하고 캐싱 처리함
+        ruby-version: '3.1'
+        bundler-cache: true 
 
     - name: 👷 Build the site
       run: bundle exec jekyll build --future -d build
